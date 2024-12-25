@@ -26,10 +26,6 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     background-image: url('images/bg.png');
 }
-#section {
-    background-color: black;
-    color: white; /* To make text readable on a black background */
-}
 
 .features-section, .testimonials-section, .faq-section {
     padding: 20px;
